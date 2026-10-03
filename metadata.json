@@ -1,0 +1,6 @@
+{
+  "name": "Blogger Clone - Modern Publishing Platform",
+  "description": "A functional blogging platform inspired by Blogger.com to create, edit, publish, and explore articles with a rich WYSIWYG editor and reader experience.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
